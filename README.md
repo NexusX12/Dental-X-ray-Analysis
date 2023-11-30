@@ -1,5 +1,11 @@
 # Dental X-ray Analysis
 
+![Project Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
+![GitHub Actions Build Status](https://github.com/NexusX12/Dental-X-ray-Analysis/workflows/Python%20App%20Workflow/badge.svg)
+![GitHub License](https://img.shields.io/github/license/NexusX12/Dental-X-ray-Analysis)
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![GitHub Issues](https://img.shields.io/github/issues/NexusX12/Dental-X-ray-Analysis)
+
 - [Dependencies](#dependencies)
 - [Dataset structure](#dataset-structure)
 - [Abstract](#abstract)
@@ -69,12 +75,12 @@ To run the scripts, follow these installation steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-dental-xray-project.git
+   git clone https://github.com/NexusX12/Dental-X-ray-Analysis
    ```
 
-2. cd your-dental-xray-project:
+2. cd Dental-X-ray-Analysis:
    ```bash
-   cd your-dental-xray-project
+   cd Dental-X-ray-Analysis
    ```
 3. Install dependencies:
 
