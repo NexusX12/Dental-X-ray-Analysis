@@ -1,10 +1,10 @@
 # Dental X-ray Analysis
 
-![Project Status](https://img.shields.io/badge/Status-Under%20Development-yellow)
-![GitHub Actions Build Status](https://github.com/NexusX12/Dental-X-ray-Analysis/workflows/Python%20App%20Workflow/badge.svg)
-![GitHub License](https://img.shields.io/github/license/NexusX12/Dental-X-ray-Analysis)
-![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
+![Project Status](https://img.shields.io/badge/Status-Under%20Development-red)
+![Python application](https://github.com/NexusX12/Dental-X-ray-Analysis/actions/workflows/python-app.yml/badge.svg)
 ![GitHub Issues](https://img.shields.io/github/issues/NexusX12/Dental-X-ray-Analysis)
+![GitHub License](https://img.shields.io/badge/license-MIT-blue)
+![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 
 - [Dependencies](#dependencies)
 - [Dataset structure](#dataset-structure)
